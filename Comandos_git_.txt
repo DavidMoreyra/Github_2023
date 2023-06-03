@@ -1,0 +1,24 @@
+Comandos git
+=============
+* Registar usuario y email
+===========================
+* git config --global user.email "correo_electronico"
+* git config --global user.name "nombre_de_usuario"
+
+* Inicializar un proyecto
+==========================
+* git init: inicializa el repositorio en la carpeta de la pc desde git bash
+
+
+* git add ."nombre_del_archivo.extension": agrega un archivo al repositorio
+* git add . agrega todos los archivos de la carpeta al repositorio
+* git  commit -m "mensaje_sobre_los_cambios_realizados " registramos los cambios
+* git log --oneline     visualizamos los commit que creamos
+
+* git branch: Lista las ramas
+* git branch "nombre_de_nueva_rama": Crea una nueva rama
+* git branch -d "nombre_de_rama": borra la rama
+* git checkout: cambia de rama
+* git checkout -d "nombre_de_nueva_rama": crea la rama y nos ubica en la nueva rama
+* git merge: integra los commit de otra rama
+* git rebase: rebasa los commit de otra rama
