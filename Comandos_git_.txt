@@ -17,8 +17,9 @@ Comandos git del curso de progrmadors
 
 * git branch: Lista las ramas
 * git branch "nombre_de_nueva_rama": Crea una nueva rama
-* git branch -d "nombre_de_rama": borra la rama
+* git branch -b "nombre_de_rama": borra la rama
 * git checkout: cambia de rama
 * git checkout -d "nombre_de_nueva_rama": crea la rama y nos ubica en la nueva rama
 * git merge: integra los commit de otra rama
 * git rebase: rebasa los commit de otra rama
+* git log  <vemos los commit que hicimos>
