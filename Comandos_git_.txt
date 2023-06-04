@@ -1,5 +1,7 @@
-Comandos git del curso de progrmadors
-=====================================
+Comandos git del curso de progrmadors 2023
+==========================================
+Tarea buscar y agregar un comando de github, describir su función, y colocar tu nombre
+
 * Registar usuario y email
 ===========================
 * git config --global user.email "correo_electronico"
