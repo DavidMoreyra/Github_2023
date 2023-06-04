@@ -1,5 +1,5 @@
-Comandos git
-=============
+Comandos git del curso de progrmadors
+=====================================
 * Registar usuario y email
 ===========================
 * git config --global user.email "correo_electronico"
