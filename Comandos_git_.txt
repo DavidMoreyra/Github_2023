@@ -27,3 +27,4 @@ Tarea buscar y agregar un comando de github, describir su función, y colocar tu
 * git log  <vemos los commit que hicimos>
 * ls  <podemos ver los archivos de la carpeta - agregado por su nombre> 
 * git status <Inspeccionar repositorio Git - agregado por Paula Cardozo>
+* git commit -m "<Probando, probando - agregado por Evangelina Dioli>"
