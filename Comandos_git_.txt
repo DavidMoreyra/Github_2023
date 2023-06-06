@@ -1,4 +1,4 @@
-Comandos git del curso de progrmadors 2023
+﻿Comandos git del curso de progrmadors 2023
 ==========================================
 Tarea buscar y agregar un comando de github, describir su función, y colocar tu nombre
 
@@ -26,3 +26,4 @@ Tarea buscar y agregar un comando de github, describir su función, y colocar tu
 * git rebase: rebasa los commit de otra rama
 * git log  <vemos los commit que hicimos>
 * ls  <podemos ver los archivos de la carpeta - agregado por su nombre> 
+* git status <Inspeccionar repositorio Git - agregado por Paula Cardozo>
