@@ -1,0 +1,9 @@
+comandos de git 
+git config --global user.name ##para configurar el usuario
+git config --user.email  ##Para configurar el mail
+git init ##para iniciar un nuevo repositorio
+git add ##para agregar archivos
+git commit -m "" #para agregar mensajes
+git branch -M main
+git remote add origin
+git push -u origin main htpps//
