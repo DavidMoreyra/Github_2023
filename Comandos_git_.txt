@@ -30,3 +30,4 @@ Tarea buscar y agregar un comando de github, describir su función, y colocar tu
 * git commit -m "<Probando, probando - agregado por Evangelina Dioli>"
 
 * git push: Envía los commits locales al repositorio remoto agregado por lorena rios.
+* git checkout development <Fusiona un archivo de una rama a otra> - agregado por Elder Patricia Serrano
