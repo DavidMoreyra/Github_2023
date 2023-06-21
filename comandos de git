@@ -7,3 +7,7 @@ git commit -m "" #para agregar mensajes
 git branch -M main
 git remote add origin
 git push -u origin main htpps//
+
+git checkout: cambia de rama
+git checkout -b "nombre_de_nueva_rama": crea la rama y nos ubica en la nueva rama
+

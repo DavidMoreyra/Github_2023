@@ -31,3 +31,4 @@ Tarea buscar y agregar un comando de github, describir su función, y colocar tu
 
 * git push: Envía los commits locales al repositorio remoto agregado por lorena rios.
 * git checkout development <Fusiona un archivo de una rama a otra> - agregado por Elder Patricia Serrano
+* clear: para limpiar la ventana donde trabajo en git bash - agregado por Elizabet Rosalina Moreno
